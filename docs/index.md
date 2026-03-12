@@ -9,9 +9,9 @@ hero:
     - theme: brand
       text: 开始学习
       link: /guide/
-    - theme: alt
-      text: 💻 技术岗求职?查看技术博客
-      link: https://jordanwei1.github.io/tech-blog/career/job-hunting/
+    # - theme: alt
+    #   text: 💻 技术岗求职?查看技术博客
+    #   link: https://jordanwei1.github.io/tech-blog/career/job-hunting/
 
 features:
   - icon: 📝
