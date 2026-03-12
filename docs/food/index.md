@@ -8,46 +8,46 @@
 
 ### 中餐系列
 
-- [ ] [家常菜](./chinese/home-cooking.md)
+- [x] [家常菜](./chinese/home-cooking.md)
   - 番茄炒蛋
   - 青椒肉丝
   - 宫保鸡丁
   - 麻婆豆腐
 
-- [ ] [快手菜](./chinese/quick-meals.md)
+- [ ] 快手菜
   - 10分钟快手菜
   - 一人食菜谱
   - 懒人料理
 
-- [ ] [节日菜](./chinese/festival-dishes.md)
+- [ ] 节日菜
   - 春节年夜饭
   - 中秋团圆饭
   - 端午粽子
 
 ### 西餐系列
 
-- [ ] [意大利菜](./western/italian.md)
+- [ ] 意大利菜
   - 意大利面
   - 披萨
   - 提拉米苏
 
-- [ ] [日韩料理](./western/asian.md)
+- [ ] 日韩料理
   - 寿司
   - 拉面
   - 韩式拌饭
 
 ### 食材采购
 
-- [ ] [超市指南](./shopping/supermarket-guide.md)
-- [ ] [中超推荐](./shopping/asian-market.md)
-- [ ] [食材替代](./shopping/ingredient-substitute.md)
-- [ ] [省钱技巧](./shopping/money-saving.md)
+- [ ] 超市指南
+- [ ] 中超推荐
+- [ ] 食材替代
+- [ ] 省钱技巧
 
 ### 厨房工具
 
-- [ ] [必备工具清单](./tools/essential-tools.md)
-- [ ] [调料清单](./tools/seasonings.md)
-- [ ] [厨具推荐](./tools/cookware.md)
+- [ ] 必备工具清单
+- [ ] 调料清单
+- [ ] 厨具推荐
 
 ---
 

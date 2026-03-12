@@ -8,31 +8,31 @@
 
 ### 量化基础
 
-- [ ] [量化交易入门](./basics/introduction.md)
-- [ ] [策略类型详解](./basics/strategy-types.md)
-- [ ] [回测框架介绍](./basics/backtest-framework.md)
-- [ ] [风险管理](./basics/risk-management.md)
+- [ ] 量化交易入门
+- [ ] 策略类型详解
+- [ ] 回测框架介绍
+- [ ] 风险管理
 
 ### 策略开发
 
-- [ ] [趋势跟踪策略](./strategy/trend-following.md)
-- [ ] [均值回归策略](./strategy/mean-reversion.md)
-- [ ] [套利策略](./strategy/arbitrage.md)
-- [ ] [机器学习策略](./strategy/ml-strategy.md)
-- [ ] [高频交易策略](./strategy/hft.md)
+- [ ] 趋势跟踪策略
+- [ ] 均值回归策略
+- [ ] 套利策略
+- [ ] 机器学习策略
+- [ ] 高频交易策略
 
 ### 工具平台
 
-- [ ] [Python量化开发](./tools/python-quant.md)
-- [ ] [回测平台对比](./tools/backtest-platforms.md)
-- [ ] [数据源推荐](./tools/data-sources.md)
-- [ ] [交易接口](./tools/trading-api.md)
+- [ ] Python量化开发
+- [ ] 回测平台对比
+- [ ] 数据源推荐
+- [ ] 交易接口
 
 ### 实战案例
 
-- [ ] [策略实现代码](./cases/strategy-implementation.md)
-- [ ] [回测分析报告](./cases/backtest-analysis.md)
-- [ ] [实盘经验总结](./cases/live-trading.md)
+- [ ] 策略实现代码
+- [ ] 回测分析报告
+- [ ] 实盘经验总结
 
 ---
 

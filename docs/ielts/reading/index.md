@@ -8,11 +8,11 @@
 
 ### 替换词库系列
 
-- [ ] [教育类替换词](./synonyms-education.md)
-- [ ] [科技类替换词](./synonyms-technology.md)
-- [ ] [环境类替换词](./synonyms-environment.md)
-- [ ] [社会类替换词](./synonyms-society.md)
-- [ ] [文化类替换词](./synonyms-culture.md)
+- [ ] 教育类替换词
+- [ ] 科技类替换词
+- [ ] 环境类替换词
+- [ ] 社会类替换词
+- [ ] 文化类替换词
 
 ### 题型技巧
 

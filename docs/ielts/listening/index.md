@@ -8,11 +8,11 @@
 
 ### 场景词汇系列
 
-- [ ] [租房场景词汇](./vocabulary-accommodation.md)
-- [ ] [银行场景词汇](./vocabulary-banking.md)
-- [ ] [医疗场景词汇](./vocabulary-medical.md)
-- [ ] [图书馆场景词汇](./vocabulary-library.md)
-- [ ] [旅游场景词汇](./vocabulary-travel.md)
+- [x] [租房场景词汇](./vocabulary-accommodation.md)
+- [ ] 银行场景词汇
+- [ ] 医疗场景词汇
+- [ ] 图书馆场景词汇
+- [ ] 旅游场景词汇
 
 ### 题型技巧
 

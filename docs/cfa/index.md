@@ -8,7 +8,7 @@
 
 ### Level I
 
-- [ ] [科目笔记](./level1/notes.md)
+- [ ] 科目笔记
   - 道德与职业标准
   - 定量方法
   - 经济学
@@ -20,29 +20,29 @@
   - 另类投资
   - 投资组合管理
 
-- [ ] [公式汇总](./level1/formulas.md)
-- [ ] [真题解析](./level1/practice.md)
-- [ ] [备考经验](./level1/experience.md)
+- [ ] 公式汇总
+- [ ] 真题解析
+- [ ] 备考经验
 
 ### Level II
 
-- [ ] [科目笔记](./level2/notes.md)
-- [ ] [公式汇总](./level2/formulas.md)
-- [ ] [真题解析](./level2/practice.md)
-- [ ] [备考经验](./level2/experience.md)
+- [ ] 科目笔记
+- [ ] 公式汇总
+- [ ] 真题解析
+- [ ] 备考经验
 
 ### Level III
 
-- [ ] [科目笔记](./level3/notes.md)
-- [ ] [公式汇总](./level3/formulas.md)
-- [ ] [真题解析](./level3/practice.md)
-- [ ] [备考经验](./level3/experience.md)
+- [ ] 科目笔记
+- [ ] 公式汇总
+- [ ] 真题解析
+- [ ] 备考经验
 
 ### 学习资源
 
-- [ ] [教材推荐](./resources/textbooks.md)
-- [ ] [网课评测](./resources/courses.md)
-- [ ] [刷题工具](./resources/practice-tools.md)
+- [ ] 教材推荐
+- [ ] 网课评测
+- [ ] 刷题工具
 
 ---
 

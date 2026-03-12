@@ -8,23 +8,23 @@
 
 ### Part 1 (日常话题)
 
-- [ ] [工作学习类](./part1-work-study.md)
-- [ ] [家乡居住类](./part1-hometown.md)
-- [ ] [兴趣爱好类](./part1-hobbies.md)
-- [ ] [日常生活类](./part1-daily-life.md)
+- [ ] 工作学习类
+- [ ] 家乡居住类
+- [ ] 兴趣爱好类
+- [ ] 日常生活类
 
 ### Part 2 (话题卡)
 
-- [ ] [人物类话题](./part2-people.md)
-- [ ] [地点类话题](./part2-places.md)
-- [ ] [事件类话题](./part2-events.md)
-- [ ] [物品类话题](./part2-objects.md)
+- [ ] 人物类话题
+- [ ] 地点类话题
+- [ ] 事件类话题
+- [ ] 物品类话题
 
 ### Part 3 (深度讨论)
 
-- [ ] [社会问题](./part3-society.md)
-- [ ] [教育话题](./part3-education.md)
-- [ ] [科技发展](./part3-technology.md)
+- [ ] 社会问题
+- [ ] 教育话题
+- [ ] 科技发展
 
 ---
 

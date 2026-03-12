@@ -8,30 +8,30 @@
 
 ### 基础知识
 
-- [ ] [区块链原理](./basics/blockchain.md)
-- [ ] [主流币种介绍](./basics/major-coins.md)
-- [ ] [DeFi入门指南](./basics/defi-intro.md)
-- [ ] [NFT完全指南](./basics/nft-guide.md)
+- [ ] 区块链原理
+- [ ] 主流币种介绍
+- [ ] DeFi入门指南
+- [ ] NFT完全指南
 
 ### 投资策略
 
-- [ ] [价值投资方法](./investment/value-investing.md)
-- [ ] [波段交易技巧](./investment/swing-trading.md)
-- [ ] [套利策略](./investment/arbitrage.md)
-- [ ] [风险控制](./investment/risk-management.md)
+- [ ] 价值投资方法
+- [ ] 波段交易技巧
+- [ ] 套利策略
+- [ ] 风险控制
 
 ### 工具平台
 
-- [ ] [交易所对比](./tools/exchange-comparison.md)
-- [ ] [钱包选择指南](./tools/wallet-guide.md)
-- [ ] [数据分析工具](./tools/data-analysis.md)
-- [ ] [安全防护措施](./tools/security.md)
+- [ ] 交易所对比
+- [ ] 钱包选择指南
+- [ ] 数据分析工具
+- [ ] 安全防护措施
 
 ### 实战经验
 
-- [ ] [交易记录分享](./experience/trading-log.md)
-- [ ] [踩坑总结](./experience/mistakes.md)
-- [ ] [收益分析](./experience/profit-analysis.md)
+- [ ] 交易记录分享
+- [ ] 踩坑总结
+- [ ] 收益分析
 
 ---
 

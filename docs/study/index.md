@@ -8,17 +8,17 @@
 
 ### 前期准备
 
-- [ ] [留学规划](./planning.md)
-- [ ] [选校策略](./school-selection.md)
-- [ ] [专业选择](./major-selection.md)
-- [ ] [语言考试](./language-test.md)
+- [ ] 留学规划
+- [ ] 选校策略
+- [ ] 专业选择
+- [ ] 语言考试
 
 ### 文书写作
 
-- [ ] [个人陈述(PS)](./personal-statement.md)
-- [ ] [简历(CV)](./cv.md)
-- [ ] [推荐信](./recommendation-letter.md)
-- [ ] [动机信](./motivation-letter.md)
+- [ ] 个人陈述(PS)
+- [ ] 简历(CV)
+- [ ] 推荐信
+- [ ] 动机信
 
 ### 申请材料
 
@@ -29,10 +29,10 @@
 
 ### 申请时间线
 
-- [ ] [美国申请时间线](./timeline-us.md)
-- [ ] [英国申请时间线](./timeline-uk.md)
-- [ ] [加拿大申请时间线](./timeline-canada.md)
-- [ ] [澳洲申请时间线](./timeline-australia.md)
+- [ ] 美国申请时间线
+- [ ] 英国申请时间线
+- [ ] 加拿大申请时间线
+- [ ] 澳洲申请时间线
 
 ---
 
