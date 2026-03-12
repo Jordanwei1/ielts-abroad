@@ -186,9 +186,9 @@ B: From the 1st of next month.
 
 ## 🔗 相关文章
 
-- [雅思听力:银行场景词汇](./vocabulary-banking.md)
-- [雅思听力:医疗场景词汇](./vocabulary-medical.md)
-- [雅思听力填空题技巧](./skill-filling.md)
+- 雅思听力:银行场景词汇
+- 雅思听力:医疗场景词汇
+- 雅思听力填空题技巧
 
 ---
 

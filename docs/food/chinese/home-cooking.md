@@ -193,9 +193,9 @@
 
 ## 🔗 相关菜谱
 
-- [青椒肉丝](./qingjiao-rousi.md)
-- [宫保鸡丁](./gongbao-jiding.md)
-- [麻婆豆腐](./mapo-tofu.md)
+- 青椒肉丝
+- 宫保鸡丁
+- 麻婆豆腐
 
 ---
 
