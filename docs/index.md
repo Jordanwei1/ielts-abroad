@@ -11,7 +11,7 @@ hero:
       link: /guide/
     - theme: alt
       text: 💻 技术岗求职?查看技术博客
-      link: https://jordanwei1.github.io/tech-blog/
+      link: https://jordanwei1.github.io/tech-blog/career/job-hunting/
 
 features:
   - icon: 📝

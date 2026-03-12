@@ -197,3 +197,15 @@ B: From the 1st of next month.
 - 剑桥雅思真题集15-17
 - 雅思听力场景词汇大全
 - 我的每日听写笔记
+
+---
+
+## 💻 留学后找技术工作?
+
+准备好技术技能,海外求职更轻松!
+
+👉 [查看全栈技术博客 - 职业发展指南](https://jordanwei1.github.io/tech-blog/career/job-hunting/)
+
+- 技术学习路线(Java/Python/AI)
+- 面试题库和刷题指南
+- 简历优化和求职技巧
